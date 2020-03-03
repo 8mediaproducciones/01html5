@@ -3,3 +3,14 @@ body{
     color:#fff
 
 }
+
+p a {font-size: 40px;
+    color: gold;
+}
+
+a [href="https://github.com"]
+    {color: green;
+    font-size: 40px;
+    align-self: center;}
+    
+
